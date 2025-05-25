@@ -1,2 +1,2 @@
 # friendly-octo-spoon
-Basic web pages for the beginners
+Basic web pages for the beginners..
